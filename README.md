@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 
 ## 🚀 About Me
 
-- 🎓 I'm currently pursuing/completed [Your Degree or Field]  
+- 🎓 I'm currently pursuing Btech in CSE
 - 💻 I enjoy working with **Web Development**, **Machine Learning**, and **Shell Scripting**
 - 🌱 I'm currently learning: `React`, `Node.js`, and advanced data science techniques
-- 📫 You can reach me at: [your email] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 You can reach me at: abhisekhreddy07@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
 
